@@ -1,5 +1,7 @@
 package com.example;
-xxx
+
+This should fail the build!
+
 import java.io.File;
 import java.io.IOException;
 import java.net.URI;
